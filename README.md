@@ -64,18 +64,8 @@ Check all the gates following the same procedure.
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: SUMAN.G
 RegisterNumber: 23014256
-module Logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
-input a,b;
-output y1,y2,y3,y4,y5,y6,y7;
-and(y1,a,b);
-or(y2,a,b);
-not(y3,a);
-xor(y4,a,b);
-nand(y5,a,b);
-nor(y6,a,b);
-xnor(y7,a,b);
-endmodule
-*/
+![Screenshot 2023-12-04 105842](https://github.com/sumanguna/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/146914442/4a0763f9-f97c-4136-ba0f-30d9813467ed)
+
 
 # Output:
 ![image](https://github.com/sumanguna/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/146914442/8226c4e3-2c75-48a9-bd7d-fcb7f4915858)

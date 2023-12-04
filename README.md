@@ -62,7 +62,6 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: SUMAN.G
 RegisterNumber:23014256 
-
 module exno1(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;

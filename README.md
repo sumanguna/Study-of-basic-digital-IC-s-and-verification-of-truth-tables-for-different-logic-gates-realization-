@@ -74,6 +74,10 @@ RegisterNumber: 23014256
 # RTL realization:
 ![image](https://github.com/sumanguna/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/146914442/1af145f8-bc2d-496b-857b-eec3903f5ec3)
 
+#  Output Waveform:
+![image](https://github.com/sumanguna/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/146914442/8fc0bc08-35da-4d4d-b2b0-6bc3af2ebfa2)
+
+
 
 
 

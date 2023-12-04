@@ -60,10 +60,12 @@ Check all the gates following the same procedure.
 
 # Program:
 
-/*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
+
 Developed by: SUMAN.G
+
 RegisterNumber: 23014256
+
 ![Screenshot 2023-12-04 105842](https://github.com/sumanguna/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/146914442/4a0763f9-f97c-4136-ba0f-30d9813467ed)
 
 
